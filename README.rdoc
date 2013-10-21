@@ -1,3 +1,4 @@
+new branch test
 1) What is Rails Engine ?
  An Engine in rails terminology is a actually miniature applications that provide functionality to their host applications. 
   => why used beacuase = : like this ( devies, spree , RefineryCMS, )these are not full-blown applications, but pages/views/controllers/models that can be added to any  rails application.\
